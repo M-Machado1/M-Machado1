@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 0 400 140" role="img" aria-label="hacking loop animated placeholder">
+  <rect width="400" height="140" fill="#1a1b26" rx="10"/>
+  <text x="20" y="46" font-family="monospace" font-size="18" fill="#c0caf5">$ ./hacking-loop</text>
+  <text x="20" y="78" font-family="monospace" font-size="18" fill="#7aa2f7">> access granted...</text>
+  <text x="20" y="110" font-family="monospace" font-size="20" fill="#7dcfff">&#9608;</text>
+  <animate attributeName="fill" values="#7dcfff;#1a1b26" dur="0.6s" repeatCount="indefinite"/>
+</svg>
