@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="140" viewBox="0 0 400 140" role="img" aria-label="retro game animated placeholder">
-  <rect width="400" height="140" fill="#1a1b26" rx="10"/>
-  <rect id="player" x="30" y="56" width="14" height="14" fill="#bb9af7"/>
-  <animateMotion href="#player" path="M 30 56 L 330 56 L 30 56" dur="2s" repeatCount="indefinite"/>
-  <text x="200" y="120" font-family="monospace" font-size="14" fill="#c0caf5" text-anchor="middle">RETRO GAME PLACEHOLDER</text>
-</svg>
