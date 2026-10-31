@@ -1,135 +1,23 @@
-# Hi there 👋 I'm M-Machado1
+# Hi there 👋 I'm MURILO D'VAL
 
-<!-- Banner: local SVG, theme-agnostic palette -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner.svg">
-  <img src="assets/banner.svg" alt="M-Machado1 banner" width="800" height="200" />
-</picture>
+## Developer in the making, in love with pop culture, with a knack for making memorable things.
 
-<!-- Typing tagline: readme-typing-svg (DenverCoder1) -->
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CS+Student+who+loves+tech+and+pop+culture&font=Fira+Code&size=22&color=7aa2f7&center=true&width=600)](https://github.com/DenverCoder1/readme-typing-svg)
-</p>
+I turn ideas into tangible things — combining technical curiosity, creative expression, and attention to detail.
 
-<!-- Divider: purple to cyan gradient SVG -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider.svg">
-  <img src="assets/divider.svg" alt="divider" width="800" height="6" />
-</picture>
+## 🛠️ Selected work
 
-## 🛠️ Working on
+**CLI Companion** — a terminal companion designed to bring personality and playful interactions into existing shell environments. Planning/design stage.
 
-A multitask terminal companion built with **TypeScript** and **Ink**.
 [→ CLI-Companion](https://github.com/M-Machado1/CLI-Companion)
 
-<!-- Animated placeholders (Section 13 moved here, side by side and compact) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hacking-loop.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hacking-loop.svg">
-    <img src="assets/hacking-loop.svg" alt="hacking loop placeholder" width="200" height="140" />
-  </picture>
-  <!-- TODO: replace assets/hacking-loop.svg with assets/hacking-loop.gif (real animated GIF). When swapping in a real GIF, update the file path from .svg to .gif above. -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/retro-game.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/retro-game.svg">
-    <img src="assets/retro-game.svg" alt="retro game placeholder" width="200" height="140" />
-  </picture>
-  <!-- TODO: replace assets/retro-game.svg with assets/retro-game.gif (real animated GIF). When swapping in a real GIF, update the file path from .svg to .gif above. -->
-</p>
+## 🧰 Technical interests
 
-## 🌱 Learning
+**Using**
+TypeScript, Node.js, Ink, Tailwind CSS
 
-Rust, TypeScript, React Native, Node.js, Ink, Tailwind.
-
-## 🧰 Tech stack
-
-Languages:
-[![Skillicons](https://skillicons.dev/icons?i=typescript,python,rust&theme=dark)](https://skillicons.dev)
-
-Frameworks and libraries:
-[![Skillicons](https://skillicons.dev/icons?i=react,reactnative,nodejs,flask,tailwindcss&theme=dark)](https://skillicons.dev)
-
-Databases:
-[![Skillicons](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
-
-Tools:
-[![Skillicons](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
-<img src="https://img.shields.io/badge/Insomnia-%20?logo=insomnia&labelColor=1a1b26&color=7aa2f7&logoColor=c0caf5&style=for-the-badge" alt="Insomnia" />
-<!-- Fallback: Insomnia has no confirmed skillicons.dev icon; using a Simple Icons badge via shields.io styled in the Tokyo Night palette. -->
-
-<!-- Divider: purple to cyan gradient SVG -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider.svg">
-  <img src="assets/divider.svg" alt="divider" width="800" height="6" />
-</picture>
-
-## 📊 GitHub stats
-
-<p align="center">
-  <a href="https://github.com/M-Machado1">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=M-Machado1&theme=tokyonight&show_icons=true&hide=issues,prs">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=M-Machado1&theme=default&show_icons=true&hide=issues,prs">
-      <img src="https://github-readme-stats.vercel.app/api?username=M-Machado1&theme=tokyonight&show_icons=true&hide=issues,prs" alt="M-Machado1's GitHub stats" />
-    </picture>
-  </a>
-  <a href="https://github.com/M-Machado1">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=M-Machado1&theme=tokyonight&layout=compact&langs_count=8">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=M-Machado1&theme=default&layout=compact&langs_count=8">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Machado1&theme=tokyonight&layout=compact&langs_count=8" alt="Top languages" />
-    </picture>
-  </a>
-</p>
-
-> Note: stats cards use the public github-readme-stats instance, which is best-effort and rate-limited (default cache ~24h stats / ~144h top langs). For reliable cards, self-host or generate via GitHub Actions; public instance serves public repos only and needs no token.
-
-<!-- Profile Summary Cards (tokyonight): generated by .github/workflows/profile-cards.yml into profile-summary-card-output/tokyonight/ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/M-Machado1/M-Machado1/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-  <img src="https://raw.githubusercontent.com/M-Machado1/M-Machado1/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
-  <img src="https://raw.githubusercontent.com/M-Machado1/M-Machado1/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
-  <img src="https://raw.githubusercontent.com/M-Machado1/M-Machado1/main/profile-summary-card-output/tokyonight/3-productive-time.svg" alt="Productive time" />
-</p>
-<!-- These cards are generated by the profile-cards workflow and will be missing until it runs for the first time. -->
-
-<!-- Divider: purple to cyan gradient SVG -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider.svg">
-  <img src="assets/divider.svg" alt="divider" width="800" height="6" />
-</picture>
-
-## 👾 Pac-Man contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Machado1/M-Machado1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Machado1/M-Machado1/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/M-Machado1/M-Machado1/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
-</picture>
-<!-- Generated daily by .github/workflows/pacman.yml; pushes SVGs to the `output` branch. Missing until the workflow runs for the first time. -->
-
-## 💬 Random quote & dev joke
-
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" alt="Random quote" />
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Dev joke" />
-</p>
-<!-- Quote card uses the closest available Tokyo Night look (dark theme); the quotes API does not expose a tokyonight theme. Joke card uses theme=tokyonight. -->
+**Exploring**
+Rust, Python, React Native, Flask, MySQL, SQLite
 
 ## 🔗 Links
 
-- [CLI-Companion](https://github.com/M-Machado1/CLI-Companion) — Multitask terminal companion (TypeScript + Ink)
-
-<!-- Social badges placeholder (none added per spec) -->
-<!--
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1a1b26?logo=twitter&logoColor=%23c0caf5&color=%237aa2f7" alt="Twitter" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?logo=linkedin&logoColor=%23c0caf5&color=%237aa2f7" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-1a1b26?logo=github&logoColor=%23c0caf5&color=%237aa2f7" alt="GitHub" /></a>
-</p>
--->
+- [CLI-Companion](https://github.com/M-Machado1/CLI-Companion) — Multitask terminal companion (planning/design stage)
