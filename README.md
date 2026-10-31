@@ -1,5 +1,7 @@
 # Hi there 👋 I'm MURILO D'VAL
 
+<img src="assets/banner.gif" alt="MURILO D'VAL profile banner" width="800" />
+
 ## Developer in the making, in love with pop culture, with a knack for making memorable things.
 
 I turn ideas into tangible things — combining technical curiosity, creative expression, and attention to detail.

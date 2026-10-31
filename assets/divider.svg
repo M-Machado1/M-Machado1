@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="6" viewBox="0 0 800 6" role="img" aria-label="gradient divider">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#bb9af7"/>
-      <stop offset="100%" stop-color="#7dcfff"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="6" fill="url(#grad)" rx="3"/>
-</svg>
